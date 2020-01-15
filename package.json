@@ -21,6 +21,10 @@
   "author": {
     "name": "Aristeides Contributors"
   },
+  "bugs": {
+    "url": "https://github.com/carnadso/aristeides/issues"
+  },
+  "homepage": "https://github.com/carnadso/aristeides",
   "readme": "README.md",
   "license": "MIT",
   "private": false,
