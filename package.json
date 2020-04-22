@@ -1,6 +1,6 @@
 {
   "name": "aristeides",
-  "version": "1.0.0-alpha.2",
+  "version": "1.0.0-alpha.3",
   "description": "Command bus pattern implementation for NodeJS",
   "main": "lib/index.js",
   "scripts": {
